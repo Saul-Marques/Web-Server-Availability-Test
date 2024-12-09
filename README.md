@@ -5,7 +5,7 @@ Feel free to edit the code's necessary params to your needs
 ## Instalation and compilation
 Clone the repository
 
-Compile the files either using the makefile file(lol) 
+Compile the files either using the makefile file
 
 or
 ```bash
